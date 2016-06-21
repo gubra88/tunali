@@ -1,3 +1,3 @@
-#Repository for Tunali Printing and Services website.
+#Tunali Printing and Services
 
-Please look in the <a href="https://github.com/gubra88/tunali/tree/gh-pages">gh-pages branch</a> for all code.
+<strong>Tunali Printing and Services</strong> is a professional textile screen printing company based in Wangsa Melawati, Kuala Lumpur. With a client base heavily made up of high street fashion brands through out the Malaysia all work is produced to the highest standard.
